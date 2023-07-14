@@ -23,3 +23,4 @@ def choose_door():
         invalid_choice()
 
 def open_door():
+    print("You open the door and find a magical world inside.")
