@@ -87,3 +87,4 @@ def keep_walking():
     time.sleep(1)
     play_again()
 
+# Updated paths with fatal endings
