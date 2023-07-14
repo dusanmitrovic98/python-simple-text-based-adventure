@@ -56,3 +56,4 @@ def knock_door():
         save_kingdom()
     else:
         invalid_choice()
+
