@@ -47,3 +47,4 @@ def knock_door():
     time.sleep(1)
     print("The wizard offers you a choice:")
     time.sleep(1)
+    print("1. Learn powerful spells at the wizard's school.")
