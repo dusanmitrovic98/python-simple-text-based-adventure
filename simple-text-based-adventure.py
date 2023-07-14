@@ -50,3 +50,4 @@ def knock_door():
     print("1. Learn powerful spells at the wizard's school.")
     print("2. Embark on a quest to save the kingdom.")
     choice = input("Enter your choice: ")
+    if choice == "1":
