@@ -72,3 +72,4 @@ def walk_away():
     elif choice == "2":
         keep_walking()
     else:
+        invalid_choice()
