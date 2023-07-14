@@ -11,3 +11,4 @@ def introduction():
 def choose_door():
     print("1. Open the door")
     print("2. Knock on the door")
+    print("3. Walk away")
