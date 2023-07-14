@@ -91,3 +91,4 @@ def keep_walking():
 def enchanted_forest():
     print("You enter the enchanted forest and encounter a mystical creature.")
     time.sleep(1)
+    print("The creature grants you a powerful ancient artifact.")
