@@ -41,3 +41,4 @@ def open_door():
         invalid_choice()
 
 def knock_door():
+    print("You knock on the door and it swings open.")
