@@ -19,3 +19,4 @@ def choose_door():
         knock_door()
     elif choice == "3":
         walk_away()
+    else:
