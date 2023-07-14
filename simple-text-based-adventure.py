@@ -59,3 +59,4 @@ def knock_door():
 
 def walk_away():
     print("You decide to walk away from the door.")
+    time.sleep(1)
