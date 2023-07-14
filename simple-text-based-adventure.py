@@ -15,3 +15,4 @@ def choose_door():
     choice = input("Enter your choice: ")
     if choice == "1":
         open_door()
+    elif choice == "2":
