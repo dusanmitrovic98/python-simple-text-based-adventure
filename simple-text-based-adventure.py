@@ -13,3 +13,4 @@ def choose_door():
     print("2. Knock on the door")
     print("3. Walk away")
     choice = input("Enter your choice: ")
+    if choice == "1":
