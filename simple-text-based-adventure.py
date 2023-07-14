@@ -21,3 +21,4 @@ def choose_door():
         walk_away()
     else:
         invalid_choice()
+
