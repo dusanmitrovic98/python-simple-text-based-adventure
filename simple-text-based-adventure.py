@@ -60,3 +60,4 @@ def knock_door():
 def walk_away():
     print("You decide to walk away from the door.")
     time.sleep(1)
+    print("As you walk, you stumble upon a hidden treasure.")
