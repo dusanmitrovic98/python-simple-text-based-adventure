@@ -74,3 +74,4 @@ def walk_away():
     else:
         invalid_choice()
 
+def keep_walking():
