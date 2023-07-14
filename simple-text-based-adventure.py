@@ -16,3 +16,4 @@ def choose_door():
     if choice == "1":
         open_door()
     elif choice == "2":
+        knock_door()
