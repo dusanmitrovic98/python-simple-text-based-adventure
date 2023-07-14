@@ -76,3 +76,4 @@ def walk_away():
 
 def keep_walking():
     print("You decide to leave the treasure behind and continue walking.")
+    time.sleep(1)
