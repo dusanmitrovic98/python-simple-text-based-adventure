@@ -8,3 +8,4 @@ def introduction():
     print("What do you do?")
     time.sleep(1)
 
+def choose_door():
