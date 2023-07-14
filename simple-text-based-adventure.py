@@ -95,3 +95,4 @@ def enchanted_forest():
     time.sleep(1)
     print("However, in your greed, you misuse its power and lose control.")
     time.sleep(1)
+    fatal_ending()
