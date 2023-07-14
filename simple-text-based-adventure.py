@@ -5,3 +5,4 @@ def introduction():
     time.sleep(1)
     print("You find yourself standing in front of a mysterious door.")
     time.sleep(1)
+    print("What do you do?")
