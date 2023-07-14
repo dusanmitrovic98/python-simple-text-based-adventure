@@ -33,3 +33,4 @@ def open_door():
     choice = input("Enter your choice: ")
     if choice == "1":
         enchanted_forest()
+    elif choice == "2":
