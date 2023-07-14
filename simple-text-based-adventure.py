@@ -30,3 +30,4 @@ def open_door():
     print("1. Follow the path to the enchanted forest.")
     print("2. Take the path leading to the ancient ruins.")
     print("3. Venture into the dark cave.")
+    choice = input("Enter your choice: ")
