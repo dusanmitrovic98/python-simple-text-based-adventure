@@ -32,3 +32,4 @@ def open_door():
     print("3. Venture into the dark cave.")
     choice = input("Enter your choice: ")
     if choice == "1":
+        enchanted_forest()
