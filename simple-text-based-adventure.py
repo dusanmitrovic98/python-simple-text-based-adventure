@@ -51,3 +51,4 @@ def knock_door():
     print("2. Embark on a quest to save the kingdom.")
     choice = input("Enter your choice: ")
     if choice == "1":
+        wizard_school()
