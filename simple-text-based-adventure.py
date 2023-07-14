@@ -94,3 +94,4 @@ def enchanted_forest():
     print("The creature grants you a powerful ancient artifact.")
     time.sleep(1)
     print("However, in your greed, you misuse its power and lose control.")
+    time.sleep(1)
