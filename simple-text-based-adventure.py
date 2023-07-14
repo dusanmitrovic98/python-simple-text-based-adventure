@@ -70,3 +70,4 @@ def walk_away():
     if choice == "1":
         take_treasure()
     elif choice == "2":
+        keep_walking()
