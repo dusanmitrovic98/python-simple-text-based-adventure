@@ -68,3 +68,4 @@ def walk_away():
     print("2. Leave the treasure and keep walking.")
     choice = input("Enter your choice: ")
     if choice == "1":
+        take_treasure()
