@@ -88,3 +88,4 @@ def keep_walking():
     play_again()
 
 # Updated paths with fatal endings
+def enchanted_forest():
