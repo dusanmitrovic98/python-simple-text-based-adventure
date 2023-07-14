@@ -24,3 +24,4 @@ def choose_door():
 
 def open_door():
     print("You open the door and find a magical world inside.")
+    time.sleep(1)
