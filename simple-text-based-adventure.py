@@ -39,3 +39,4 @@ def open_door():
         dark_cave()
     else:
         invalid_choice()
+
