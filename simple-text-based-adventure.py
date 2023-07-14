@@ -38,3 +38,4 @@ def open_door():
     elif choice == "3":
         dark_cave()
     else:
+        invalid_choice()
