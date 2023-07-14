@@ -55,3 +55,4 @@ def knock_door():
     elif choice == "2":
         save_kingdom()
     else:
+        invalid_choice()
