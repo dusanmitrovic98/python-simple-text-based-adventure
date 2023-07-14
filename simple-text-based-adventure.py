@@ -22,3 +22,4 @@ def choose_door():
     else:
         invalid_choice()
 
+def open_door():
