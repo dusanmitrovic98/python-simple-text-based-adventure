@@ -58,3 +58,4 @@ def knock_door():
         invalid_choice()
 
 def walk_away():
+    print("You decide to walk away from the door.")
