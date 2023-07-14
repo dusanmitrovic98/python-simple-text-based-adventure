@@ -9,3 +9,4 @@ def introduction():
     time.sleep(1)
 
 def choose_door():
+    print("1. Open the door")
