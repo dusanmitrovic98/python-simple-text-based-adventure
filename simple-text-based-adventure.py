@@ -26,3 +26,4 @@ def open_door():
     print("You open the door and find a magical world inside.")
     time.sleep(1)
     print("You see three paths ahead:")
+    time.sleep(1)
