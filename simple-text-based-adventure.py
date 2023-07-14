@@ -57,3 +57,4 @@ def knock_door():
     else:
         invalid_choice()
 
+def walk_away():
