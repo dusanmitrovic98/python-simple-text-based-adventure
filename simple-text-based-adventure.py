@@ -45,3 +45,4 @@ def knock_door():
     time.sleep(1)
     print("A friendly wizard welcomes you inside.")
     time.sleep(1)
+    print("The wizard offers you a choice:")
