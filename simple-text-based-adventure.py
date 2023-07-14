@@ -86,3 +86,4 @@ def keep_walking():
     print("Congratulations! You have embarked on a new adventure.")
     time.sleep(1)
     play_again()
+
