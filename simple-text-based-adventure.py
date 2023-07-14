@@ -52,3 +52,4 @@ def knock_door():
     choice = input("Enter your choice: ")
     if choice == "1":
         wizard_school()
+    elif choice == "2":
