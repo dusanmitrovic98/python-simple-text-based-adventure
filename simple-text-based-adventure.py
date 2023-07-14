@@ -42,3 +42,4 @@ def open_door():
 
 def knock_door():
     print("You knock on the door and it swings open.")
+    time.sleep(1)
