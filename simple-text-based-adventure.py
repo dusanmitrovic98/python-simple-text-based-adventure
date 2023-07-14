@@ -28,3 +28,4 @@ def open_door():
     print("You see three paths ahead:")
     time.sleep(1)
     print("1. Follow the path to the enchanted forest.")
+    print("2. Take the path leading to the ancient ruins.")
