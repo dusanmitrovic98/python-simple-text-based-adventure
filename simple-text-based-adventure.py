@@ -64,3 +64,4 @@ def walk_away():
     time.sleep(1)
     print("What do you do?")
     time.sleep(1)
+    print("1. Take the treasure and continue exploring.")
