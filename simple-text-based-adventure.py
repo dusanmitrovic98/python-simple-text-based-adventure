@@ -89,3 +89,4 @@ def keep_walking():
 
 # Updated paths with fatal endings
 def enchanted_forest():
+    print("You enter the enchanted forest and encounter a mystical creature.")
