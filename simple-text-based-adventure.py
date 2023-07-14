@@ -36,3 +36,4 @@ def open_door():
     elif choice == "2":
         ancient_ruins()
     elif choice == "3":
+        dark_cave()
