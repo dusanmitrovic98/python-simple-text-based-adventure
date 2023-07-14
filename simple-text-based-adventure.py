@@ -81,3 +81,4 @@ def keep_walking():
     time.sleep(1)
     print("Curiosity gets the better of you, and you step into the portal.")
     time.sleep(1)
+    print("You find yourself in a new dimension, filled with endless possibilities.")
