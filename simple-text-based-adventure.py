@@ -34,3 +34,4 @@ def open_door():
     if choice == "1":
         enchanted_forest()
     elif choice == "2":
+        ancient_ruins()
