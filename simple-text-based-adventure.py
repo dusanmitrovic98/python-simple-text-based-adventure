@@ -54,3 +54,4 @@ def knock_door():
         wizard_school()
     elif choice == "2":
         save_kingdom()
+    else:
