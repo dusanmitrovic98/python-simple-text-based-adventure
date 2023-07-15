@@ -144,3 +144,4 @@ def save_kingdom():
 
 def take_treasure():
     print("You take the treasure and feel its magical aura.")
+    time.sleep(1)
