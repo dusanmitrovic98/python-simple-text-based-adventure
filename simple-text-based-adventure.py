@@ -121,3 +121,4 @@ def dark_cave():
     fatal_ending()
 
 def wizard_school():
+    print("You enroll at the wizard's school and begin your magical training.")
