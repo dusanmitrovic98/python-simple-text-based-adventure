@@ -147,3 +147,4 @@ def take_treasure():
     time.sleep(1)
     print("The treasure bestows upon you immense wealth and prosperity.")
     time.sleep(1)
+    print("You live a life of luxury and fulfill all your dreams.")
