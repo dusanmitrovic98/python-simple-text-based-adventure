@@ -181,3 +181,4 @@ def fatal_ending():
 
 
 # Main game loop
+def play_game():
