@@ -114,3 +114,4 @@ def dark_cave():
     time.sleep(1)
     print("You are badly injured and unable to continue the fight.")
     time.sleep(1)
+    print("As the dragon prepares for a final blow, you realize your fate.")
