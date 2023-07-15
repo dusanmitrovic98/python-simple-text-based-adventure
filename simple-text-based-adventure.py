@@ -100,3 +100,4 @@ def ancient_ruins():
     print("You arrive at the ancient ruins and discover a hidden chamber.")
     time.sleep(1)
     print("Inside the chamber, you find a legendary sword.")
+    time.sleep(1)
