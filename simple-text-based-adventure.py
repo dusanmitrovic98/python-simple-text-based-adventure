@@ -128,3 +128,4 @@ def wizard_school():
     print("You pass on your knowledge to future generations of wizards.")
     time.sleep(1)
     print("Congratulations! You have become a respected and influential figure.")
+    time.sleep(1)
