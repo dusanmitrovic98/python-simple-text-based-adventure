@@ -120,3 +120,4 @@ def dark_cave():
     time.sleep(1)
     fatal_ending()
 
+def wizard_school():
