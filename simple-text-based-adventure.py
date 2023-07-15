@@ -186,3 +186,4 @@ def play_game():
     choose_door()
 
 
+def play_again():
