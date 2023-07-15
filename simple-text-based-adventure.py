@@ -191,3 +191,4 @@ def play_again():
     if choice.lower() == "yes":
         play_game()
     else:
+        print("Thank you for playing the Text-Based Adventure Game. Goodbye!")
