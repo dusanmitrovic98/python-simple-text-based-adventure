@@ -96,6 +96,7 @@ def enchanted_forest():
     print("However, in your greed, you misuse its power and lose control.")
     time.sleep(1)
     fatal_ending()
+    
 def ancient_ruins():
     print("You arrive at the ancient ruins and discover a hidden chamber.")
     time.sleep(1)
