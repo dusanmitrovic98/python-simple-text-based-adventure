@@ -179,3 +179,4 @@ def fatal_ending():
     time.sleep(1)
     print("Game Over.")
 
+
