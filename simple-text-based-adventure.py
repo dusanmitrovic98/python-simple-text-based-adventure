@@ -138,3 +138,4 @@ def save_kingdom():
     time.sleep(1)
     print("The kingdom rejoices and hails you as their savior.")
     time.sleep(1)
+    print("Congratulations! You have brought peace and prosperity to the land.")
