@@ -109,3 +109,4 @@ def dark_cave():
     print("You bravely enter the dark cave and hear a menacing growl.")
     time.sleep(1)
     print("You face a fearsome dragon and engage in an epic battle.")
+    time.sleep(1)
