@@ -168,3 +168,4 @@ def keep_walking():
 
 def invalid_choice():
     print("Sorry, that's not a valid choice. Please try again.")
+    time.sleep(1)
