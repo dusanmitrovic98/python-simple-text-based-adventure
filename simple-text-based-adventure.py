@@ -180,3 +180,4 @@ def fatal_ending():
     print("Game Over.")
 
 
+# Main game loop
