@@ -183,3 +183,4 @@ def fatal_ending():
 # Main game loop
 def play_game():
     introduction()
+    choose_door()
