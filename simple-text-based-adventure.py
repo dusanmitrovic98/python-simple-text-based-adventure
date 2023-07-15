@@ -131,3 +131,4 @@ def wizard_school():
     time.sleep(1)
     play_again()
 
+def save_kingdom():
