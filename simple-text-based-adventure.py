@@ -140,3 +140,4 @@ def save_kingdom():
     time.sleep(1)
     print("Congratulations! You have brought peace and prosperity to the land.")
     time.sleep(1)
+    play_again()
