@@ -152,3 +152,4 @@ def take_treasure():
     print("Congratulations! You have achieved unparalleled success and happiness.")
     time.sleep(1)
     play_again()
+
