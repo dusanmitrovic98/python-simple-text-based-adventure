@@ -129,3 +129,4 @@ def wizard_school():
     time.sleep(1)
     print("Congratulations! You have become a respected and influential figure.")
     time.sleep(1)
+    play_again()
