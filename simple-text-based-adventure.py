@@ -107,3 +107,4 @@ def ancient_ruins():
 
 def dark_cave():
     print("You bravely enter the dark cave and hear a menacing growl.")
+    time.sleep(1)
