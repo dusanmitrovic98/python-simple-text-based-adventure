@@ -132,3 +132,4 @@ def wizard_school():
     play_again()
 
 def save_kingdom():
+    print("You embark on a perilous journey to save the kingdom from an evil sorcerer.")
