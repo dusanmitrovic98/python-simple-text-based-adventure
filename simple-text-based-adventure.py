@@ -171,3 +171,4 @@ def invalid_choice():
     time.sleep(1)
     choose_door()
 
+
