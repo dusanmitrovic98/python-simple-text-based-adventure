@@ -97,3 +97,4 @@ def enchanted_forest():
     time.sleep(1)
     fatal_ending()
 def ancient_ruins():
+    print("You arrive at the ancient ruins and discover a hidden chamber.")
