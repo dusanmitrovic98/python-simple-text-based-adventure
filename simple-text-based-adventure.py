@@ -149,3 +149,4 @@ def take_treasure():
     time.sleep(1)
     print("You live a life of luxury and fulfill all your dreams.")
     time.sleep(1)
+    print("Congratulations! You have achieved unparalleled success and happiness.")
