@@ -137,3 +137,4 @@ def save_kingdom():
     print("With unwavering determination, you confront the sorcerer and defeat him.")
     time.sleep(1)
     print("The kingdom rejoices and hails you as their savior.")
+    time.sleep(1)
