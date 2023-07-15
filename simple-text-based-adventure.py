@@ -167,3 +167,4 @@ def keep_walking():
     play_again()
 
 def invalid_choice():
+    print("Sorry, that's not a valid choice. Please try again.")
