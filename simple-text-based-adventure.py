@@ -174,3 +174,4 @@ def invalid_choice():
 
 def fatal_ending():
     print("Oh no! Your journey comes to a tragic end.")
+    time.sleep(1)
