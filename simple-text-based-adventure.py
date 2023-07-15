@@ -166,3 +166,4 @@ def keep_walking():
     time.sleep(1)
     play_again()
 
+def invalid_choice():
