@@ -162,3 +162,4 @@ def keep_walking():
     time.sleep(1)
     print("You find yourself in a new dimension, filled with endless possibilities.")
     time.sleep(1)
+    print("Congratulations! You have embarked on a new adventure.")
