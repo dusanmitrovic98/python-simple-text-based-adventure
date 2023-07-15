@@ -101,3 +101,4 @@ def ancient_ruins():
     time.sleep(1)
     print("Inside the chamber, you find a legendary sword.")
     time.sleep(1)
+    print("As you try to pull out the sword, a powerful curse is unleashed.")
