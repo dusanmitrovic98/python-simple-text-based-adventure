@@ -122,3 +122,4 @@ def dark_cave():
 
 def wizard_school():
     print("You enroll at the wizard's school and begin your magical training.")
+    time.sleep(1)
