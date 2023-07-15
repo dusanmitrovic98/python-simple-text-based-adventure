@@ -118,3 +118,4 @@ def dark_cave():
     time.sleep(1)
     print("With one last breath, you close your eyes and succumb to your injuries.")
     time.sleep(1)
+    fatal_ending()
