@@ -106,3 +106,4 @@ def ancient_ruins():
     fatal_ending()
 
 def dark_cave():
+    print("You bravely enter the dark cave and hear a menacing growl.")
