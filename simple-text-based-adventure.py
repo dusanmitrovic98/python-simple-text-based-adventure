@@ -103,3 +103,4 @@ def ancient_ruins():
     time.sleep(1)
     print("As you try to pull out the sword, a powerful curse is unleashed.")
     time.sleep(1)
+    fatal_ending()
