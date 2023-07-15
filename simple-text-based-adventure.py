@@ -110,3 +110,4 @@ def dark_cave():
     time.sleep(1)
     print("You face a fearsome dragon and engage in an epic battle.")
     time.sleep(1)
+    print("Despite your best efforts, the dragon overwhelms you with its power.")
