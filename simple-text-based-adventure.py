@@ -172,3 +172,4 @@ def invalid_choice():
     choose_door()
 
 
+def fatal_ending():
