@@ -105,3 +105,4 @@ def ancient_ruins():
     time.sleep(1)
     fatal_ending()
 
+def dark_cave():
