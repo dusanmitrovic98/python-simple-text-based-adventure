@@ -142,3 +142,4 @@ def save_kingdom():
     time.sleep(1)
     play_again()
 
+def take_treasure():
