@@ -153,3 +153,4 @@ def take_treasure():
     time.sleep(1)
     play_again()
 
+def keep_walking():
