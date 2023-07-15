@@ -123,3 +123,4 @@ def dark_cave():
 def wizard_school():
     print("You enroll at the wizard's school and begin your magical training.")
     time.sleep(1)
+    print("Years later, you become a master wizard and teach at the school.")
