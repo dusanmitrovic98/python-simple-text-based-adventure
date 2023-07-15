@@ -178,3 +178,4 @@ def fatal_ending():
     print("You have met an unfortunate fate.")
     time.sleep(1)
     print("Game Over.")
+
