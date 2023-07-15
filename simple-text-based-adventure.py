@@ -134,3 +134,4 @@ def wizard_school():
 def save_kingdom():
     print("You embark on a perilous journey to save the kingdom from an evil sorcerer.")
     time.sleep(1)
+    print("With unwavering determination, you confront the sorcerer and defeat him.")
