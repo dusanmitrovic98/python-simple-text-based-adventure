@@ -156,3 +156,4 @@ def take_treasure():
 def keep_walking():
     print("You decide to leave the treasure behind and continue walking.")
     time.sleep(1)
+    print("As you walk, you stumble upon a mysterious portal.")
