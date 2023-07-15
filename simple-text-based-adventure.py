@@ -146,3 +146,4 @@ def take_treasure():
     print("You take the treasure and feel its magical aura.")
     time.sleep(1)
     print("The treasure bestows upon you immense wealth and prosperity.")
+    time.sleep(1)
