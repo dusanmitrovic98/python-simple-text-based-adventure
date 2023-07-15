@@ -143,3 +143,4 @@ def save_kingdom():
     play_again()
 
 def take_treasure():
+    print("You take the treasure and feel its magical aura.")
